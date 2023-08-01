@@ -1,0 +1,23 @@
+.sort__wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.sort-date-text {
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+.button-new {
+  font-size: 16px;
+  color: black;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.button-old {
+  font-size: 16px;
+  color: black;
+  padding: 10px;
+}
